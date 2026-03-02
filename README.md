@@ -15,16 +15,14 @@
   <a href="https://github.com/SUDOKU-ASCII">Main code</a>
 </p>
 
----
-
+<hr/>
 
 <p>
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=saba-futai&hide_border=true&bg_color=ffffff00&color=9aa0a6&line=9aa0a6&point=9aa0a6"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=saba-futai&amp;hide_border=true&amp;bg_color=ffffff00&amp;color=9aa0a6&amp;line=9aa0a6&amp;point=9aa0a6"
     alt="Contribution graph"
   />
 </p>
-
 
 <h2>Selected Work</h2>
 
@@ -38,45 +36,34 @@
   Android client for the SUDOKU protocol.
 </p>
 
-<p>
-  <a href="https://github.com/SUDOKU-ASCII/sudoku-sing-box">sudoku-sing-box</a><br/>
-  sing-box integration with SUDOKU protocol support.
-</p>
-
-<p>
-  <a href="https://github.com/SUDOKU-ASCII/easy-install">easy-install</a><br/>
-  One-command deployment scripts for SUDOKU server.
-</p>
-
 <br/>
 
-<h2>Stars</h2>
+<hr/>
 
-<p>
-  <img
-    src="https://stats.justsong.cn/api/github?username=SUDOKU-ASCII&show_icons=false&hide_title=true&hide_border=true&include_all_commits=true&count_private=true"
-    height="160"
-    alt="GitHub stats"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="center" width="50%">
+      <h2>Stars</h2>
+      <img
+        src="https://stats.justsong.cn/api/github?username=SUDOKU-ASCII&amp;show_icons=false&amp;hide_title=true&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true"
+        height="160"
+        alt="GitHub stats"
+      />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h2>Saba</h2>
+      <p>I like the virtual streamer "saba".</p>
+      <img
+        src="https://static.wikia.nocookie.net/virtualyoutuber/images/b/b3/Sameko_Saba_Twitter_profile.jpg/revision/latest/scale-to-width-down/185?cb=20250629154213"
+        width="240"
+        alt="saba"
+      />
+    </td>
+  </tr>
+</table>
 
-<br/>
 
-<h2>Saba</h2>
-
-<p>
-  I like the virtual streamer "saba".
-</p>
-
-<p>
-  <img
-    src="https://static.wikia.nocookie.net/virtualyoutuber/images/b/b3/Sameko_Saba_Twitter_profile.jpg/revision/latest/scale-to-width-down/185?cb=20250629154213"
-    width="240"
-    alt="saba"
-  />
-</p>
-
-<br/>
+<hr/>
 
 <p style="font-size: 12px;">
   Built to stay quiet, readable, and centered.
