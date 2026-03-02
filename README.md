@@ -54,7 +54,7 @@
       <h2>Saba</h2>
       <p>I like the virtual streamer "saba".</p>
       <img
-        src="https://static.wikia.nocookie.net/virtualyoutuber/images/b/b3/Sameko_Saba_Twitter_profile.jpg/revision/latest/scale-to-width-down/185?cb=20250629154213"
+        src="https://hololist.net/wp-content/uploads/2025/06/sameko-saba-portrait-66.jpg"
         width="240"
         alt="saba"
       />
