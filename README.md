@@ -65,8 +65,9 @@
 
 <hr/>
 
-<p style="font-size: 12px;">
-  Built to stay quiet, readable, and centered.
+<p style="font-size:12px;">
+  <em>la petite seconde d'éternité où tu m'embrasses ou je t'ai embrassée</em> "des milliers et des milliers d'années n'auraient suffi pour dire"
 </p>
+
 
 </div>
