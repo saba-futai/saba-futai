@@ -53,11 +53,13 @@
     <td align="center" valign="top" width="50%">
       <h2>Saba</h2>
       <p>I like the virtual streamer "saba".</p>
+      <a href="https://x.com/samekosaba">
       <img
         src="https://hololist.net/wp-content/uploads/2025/06/sameko-saba-portrait-66.jpg"
         width="240"
         alt="saba"
       />
+      </a>
     </td>
   </tr>
 </table>
@@ -66,7 +68,7 @@
 <hr/>
 
 <p style="font-size:12px;">
-  <em>la petite seconde d'éternité où tu m'embrasses ou je t'ai embrassée</em> "des milliers et des milliers d'années n'auraient suffi pour dire"
+  <em>la petite seconde d'éternité où tu m'embrasses ou je t'ai embrassée</em> <em>des milliers et des milliers d'années n'auraient suffi pour dire</em>
 </p>
 
 
