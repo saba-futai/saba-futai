@@ -42,7 +42,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="center" width="50%">
+    <td align="center" valign="center" width="32%">
       <h2>Stars</h2>
       <img
         src="https://stats.justsong.cn/api/github?username=SUDOKU-ASCII&amp;show_icons=false&amp;hide_title=true&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true"
@@ -50,7 +50,7 @@
         alt="GitHub stats"
       />
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="34%">
       <h2>Saba</h2>
       <p>I like the vtuber "saba".</p>
       <a href="https://x.com/samekosaba">
@@ -58,6 +58,17 @@
         src="https://hololist.net/wp-content/uploads/2025/06/sameko-saba-portrait-66.jpg"
         width="240"
         alt="saba"
+      />
+      </a>
+    </td>
+    <td align="center" valign="top" width="34%">
+      <h2>futaiii</h2>
+      <p>关注弗太taiii喵，谢谢喵.</p>
+      <a href="https://space.bilibili.com/1206651023">
+      <img
+        src="https://raw.githubusercontent.com/saba-futai/saba-futai/refs/heads/main/IMG_9929.jpg"
+        width="240"
+        alt="futai"
       />
       </a>
     </td>
