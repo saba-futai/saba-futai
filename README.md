@@ -52,7 +52,7 @@
     </td>
     <td align="center" valign="top" width="50%">
       <h2>Saba</h2>
-      <p>I like the virtual streamer "saba".</p>
+      <p>I like the vtuber "saba".</p>
       <a href="https://x.com/samekosaba">
       <img
         src="https://hololist.net/wp-content/uploads/2025/06/sameko-saba-portrait-66.jpg"
