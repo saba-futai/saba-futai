@@ -36,6 +36,11 @@
   Android client for the SUDOKU protocol.
 </p>
 
+<p>
+  <a href="https://github.com/SUDOKU-ASCII/sudoku-desktop">sudoku-desktop</a><br/>
+  Desktop client for the SUDOKU protocol.
+</p>
+
 <br/>
 
 <hr/>
