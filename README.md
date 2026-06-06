@@ -50,7 +50,7 @@
     <td align="center" valign="center" width="32%">
       <h2>Stars</h2>
       <img
-        src="https://stats.justsong.cn/api/github?username=SUDOKU-ASCII&amp;show_icons=false&amp;hide_title=true&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true"
+        src="https://stats.justsong.cn/api/github?username=SUDOKU-ASCII"
         height="160"
         alt="GitHub stats"
       />
